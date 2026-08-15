@@ -52,4 +52,4 @@ Desarrollar una solución web donde los alumnos puedan subir, organizar y consul
 * Backend: Node.js, NestJS, TypeScript.
 * Frontend: React.
 * Base de Datos: PostgreSQL.
-* Control de Versiones: Git, GitHub.s
+* Control de Versiones: Git, GitHub.
